@@ -2,6 +2,11 @@
 Trabajo de Proyectos para ISP
 
 1 - ¿Cuáles son las Ceremonias en Scrum?
+Las Ceremonias son cuatro:
+       -Sprint Planning Meeting
+       - Daily Scrum Meeting
+       -Sprint Review Meeting
+       - Sprint Retrospective Meeting
 
 2 - ¿Qué son los artefactos?
 
