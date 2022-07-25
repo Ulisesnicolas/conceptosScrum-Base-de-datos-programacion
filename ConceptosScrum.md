@@ -71,6 +71,7 @@ El equipo de desarrollo se encargará de crear un incremento terminado a partir 
 Es importante que en la metodología Scrum todos los miembros del equipo de desarrollo conozcan su rol, siendo solo uno común para todos*
 
 ###### Temas importantes del bloque I:
+
 **Introducción a las Base de Datos**
 
 Década de los 70 – Sistemas Centralizados.
@@ -110,7 +111,7 @@ computadora como un conjunto de instrucciones. Incluye la documentación asociad
 necesaria para comprender, transformar y usar esa solución.
 Software
 
-##CARACTERISTICAS SCRUM##
+**Caracteristicas Scrum**
 
 Es intangible.
 ● Tiene alto contenido Intelectual.
